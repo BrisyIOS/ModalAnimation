@@ -1,0 +1,6 @@
+framework module Pods__________ {
+  umbrella header "Pods-仿微信照片弹出动画-umbrella.h"
+
+  export *
+  module * { export * }
+}
